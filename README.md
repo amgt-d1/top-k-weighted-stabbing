@@ -16,7 +16,13 @@
 ## Citation
 If you use our implementation, please cite the following paper.
 ``` 
-
+@inproceedings{amagata2024efficient,  
+    title={Efficient Algorithms for Top-k Stabbing Queries on Weighted Interval Data},  
+    author={Amagata, Daichi and Yamada, Junya and Ji, Yuchen and Takahiro, Hara},  
+    booktitle={DEXA},  
+    pages={xx--xx},  
+    year={2024}  
+}
 ``` 
 
 ## License
