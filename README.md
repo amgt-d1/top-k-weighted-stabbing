@@ -21,7 +21,7 @@ If you use our implementation, please cite the following paper.
     title={Efficient Algorithms for Top-k Stabbing Queries on Weighted Interval Data},  
     author={Amagata, Daichi and Yamada, Junya and Ji, Yuchen and Takahiro, Hara},  
     booktitle={DEXA},  
-    pages={xx--xx},  
+    pages={146--152},  
     year={2024}  
 }
 ``` 
