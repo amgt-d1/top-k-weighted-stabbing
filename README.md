@@ -1,6 +1,6 @@
 ## Introduction
 * This repository provides implementations of our algorithms for the top-k weighted stabbing query processing problem.
-* The details of our algorithms can be found at [here](https://arxiv.org/abs/2405.05601).
+* The details of our algorithms can be found [here](https://arxiv.org/abs/2405.05601).
 
 ## Requirement
 * Linux OS (Ubuntu).
